@@ -1,4 +1,7 @@
-### Hi there 👋
+
+Web developer with a focus on frontend and Vue.js.
+
+
 
 <!--
 **josip2312/josip2312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
